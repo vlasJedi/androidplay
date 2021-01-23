@@ -1,0 +1,4 @@
+println 'This is executed during the initialization phase.'
+// This file should be placed always in root directory
+include ':app'
+rootProject.name = "android-play"

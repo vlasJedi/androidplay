@@ -1,0 +1,5 @@
+<resources>
+    <!-- HERE SHOULD BE SPECIFIED ALL STRING THAT APP USES -->
+    <string name="app_name">android-play</string>
+    <string name="hello_message">Hello World</string>
+</resources>
